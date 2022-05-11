@@ -1,1 +1,1 @@
-GNU text editor
+Thank God for Unix/Linux.
