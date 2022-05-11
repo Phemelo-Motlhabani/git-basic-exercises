@@ -1,0 +1,500 @@
+   52  ls
+   53  git add .
+   54  git commit -m 'Starting to code today, so cool'
+   55  git push
+   56  ls
+   57  c js
+   58  cd js
+   59  ls
+   60  cd ..
+   61  cd c
+   62  ls
+   63  ls
+   64  cd ..
+   65  ls
+   66  cd ..
+   67  ls
+   68  git add .
+   69  git rm --cached alx-pre_course
+   70  ls
+   71  cd alx-pre_course
+   72  git add .
+   73  ls
+   74  git add.
+   75  git add .
+   76  git commit -m 'Starting to code today, so cool'
+   77  git push
+   78  ls
+   79  cd bash
+   80  ls
+   81  cd alx
+   82  ls
+   83  'git update
+   84  l
+   85  git add .
+   86  ls
+   87  cd alx-pre_course
+   88  ls
+   89  cd alx-pre_course
+   90  git init
+   91  'ls
+   92  ls
+   93  ls
+   94  'cd alx-pre_course
+   95  cd alx-pre_corse
+   96  cd alx-pre_course
+   97  ls
+   98  cd alx-pre_course
+   99  ls
+  100  git add.
+  101  git add .
+  102  git commit -m 'Starting to code today, so cool'
+  103  git push
+  104  ls
+  105  cd bash
+  106  ls
+  107  cd alx
+  108  ls
+  109  git push
+  110  cd ..
+  111  ls
+  112  git add .
+  113  gi'
+  114  's'
+  115  s
+  116  s
+  117  cd alx-pre_course
+  118  cd alx-pre_course
+  119  ls
+  120  cd ..
+  121  ls
+  122  cd alx-pre_course
+  123  git add .
+  124  git commit -m 'Starting to code today, so cool'
+  125  git push
+  126  ls
+  127  cd 0x01-git
+  128  ls
+  129  git branch update_script
+  130  ls
+  131  git checkout -b update_script
+  132  git checkout update_script
+  133  ls
+  134  cd bash
+  135  ls
+  136  touch 98
+  137  ls
+  138  git grep -l 'ALX' | xargs sed -i 'ALX School'
+  139  cd alx
+  140  ls
+  141  alx*
+  142  cd alx*
+  143  ls
+  144  ls
+  145  cd ..
+  146  ls
+  147  cd ..
+  148  ls
+  149  git stauts
+  150  git status
+  151  git add .
+  152  git push
+  153  ls
+  154  git 0x01-git
+  155  cd 0x01-git
+  156  git add .
+  157  git push
+  158  ls
+  159  cd bash
+  160  git push
+  161  ls
+  162  ls
+  163  git push
+  164  git pull
+  165  git push
+  166  git pull https://github.com/Phemelo-Motlhabani/alx-pre_course/.git update_stream
+  167  git pull https://github.com/Phemelo-Motlhabani/alx-pre_course update_stream
+  168  git pull https://github.com/Phemelo-Motlhabani/alx-pre_course.git update_stream
+  169  git push
+  170  git push origin updtae_stream
+  171  git push origin update_stream
+  172  git push origin update_stream
+  173  git push origin update_script
+  174  git pull update_script
+  175  git pull origin update_stream
+  176  git pull origin update_Script
+  177  git pull origin update_script
+  178  git push origin update_script
+  179  cd ..
+  180  git push origin update_script
+  181  git add .
+  182  git commit -m 'my personal work'
+  183  git push
+  184  git push origin update_Script
+  185  git push origin update_script
+  186  git pull origin update_script
+  187  git push origin update_stream
+  188  git commit -m "my personal work"
+  189  git push
+  190  git push origin update_script
+  191  git chouckout master
+  192  git checkout master
+  193  cd ..
+  194  git branch master
+  195  ls
+  196  git checkout master
+  197  git pull origin
+  198  git pull
+  199  git pull origin master
+  200  git pull origin main
+  201  'ls
+  202  ''
+  203  :x
+  204  git add .
+  205  cd alx-pre_course
+  206  ls
+  207  cd alx-pre_course
+  208  git add .
+  209  git commit -m "Hot fix"
+  210  git push
+  211  git push origin main
+  212  git push origin master
+  213  git commit -m 'Hot fix'
+  214  git push
+  215  git branch update_script
+  216  git checkout update_script
+  217  git add .
+  218  git commit -m "Hot fix"
+  219  git push
+  220  git commit --ammend
+  221  git commit --amend
+  222  git push
+  223  git push origin update_script
+  224  git commit -amend
+  225  git commit --amend
+  226  git checkout master
+  227  git commit -amend
+  228  git commit --amend
+  229  git push origin
+  230  git push 
+  231  git push
+  232  git push origin main
+  233  ls
+  234  0x01-git
+  235  cd 0x01-git
+  236  git pull
+  237  ls
+  238  echo "touch up_to_date" > up_to_date
+  239  ls
+  240  git push
+  241  git push origin
+  242  git push origin main
+  243  ls
+  244  git commit -m "up_to_date added"
+  245  git add .
+  246  git commit -m "up_to_date added"
+  247  git push
+  248  git push origin
+  249  git push origin main
+  250  ls
+  251  git push
+  252  git push --set-upstream origin master
+  253  git push
+  254  git pull
+  255  git pull origin master
+  256  git pull
+  257  git pull origin main
+  258  git push
+  259  git push origin main
+  260  git pull
+  261  git push
+  262  git pull
+  263  mkdir shellscripttut
+  264  cd shellscripttut
+  265  touch myscript.sh
+  266  vi .myscript.sh
+  267  ./myscript.sh
+  268  which bash
+  269  vi .myscript.sh
+  270  ./myscript.sh
+  271  ./myscript.sh
+  272  vi .myscript.sh
+  273  ./myscript.sh
+  274  vi .myscript.sh
+  275  ./myscript.sh
+  276  chmod +x myscript.sh
+  277  ./myscript.sh
+  278  ./myscript.sh
+  279  chmod +x myscript
+  280  vi .myscript.sh
+  281  ./myscript.sh
+  282  chmod +x myscript
+  283  chmod +x myscript.sh
+  284  ./myscript.sh
+  285  cd
+  286  start.
+  287  start .
+  288  mv bash_profile .bash_profile
+  289  mv bash_profile .bash_profile
+  290  cd
+  291  cd
+  292  mv bash_profile .bash_profile
+  293  ls
+  294  mv bash_profile .bash_profile
+  295  mv udacity-terminal-config .udacity-terminal-config
+  296  git config --list
+  297  cd
+  298  cd
+  299  dembele19
+  300  git config --global core.editor "atom --wait"
+  301  git status
+  302  ls
+  303  pwd
+  304  git init
+  305  mkdir udacity-git-course
+  306  cd udacity-git-course
+  307  mkdir new-git-project
+  308  cd new-git-project
+  309  ls
+  310  cd
+  311  ls
+  312  cd new-got-course
+  313  cd udacoity-git-course
+  314  cd udacity-git-course
+  315  ls
+  316  cd
+  317  mkdir -p udacity-git-course/new-git-project && cd $_
+  318  git init
+  319  pwd
+  320  cd
+  321  cd
+  322  cd ..
+  323  cd Phemelo
+  324  git clone https://github.com/udacity/course-git-blog-project
+  325  git clone https://github.com/udacity/course-git-blog-project
+  326  cd course-git-blog-project
+  327  ls
+  328  cat indx.html
+  329  cat index.html
+  330  gnome-open index.html
+  331  vi index.html
+  332  vi index.html
+  333  open index.html
+  334  notepad index.html
+  335  atom index.html
+  336  git status
+  337  ls
+  338  git reset HEAD --
+  339  git status
+  340  git rm .index.html.swp
+  341  git reset
+  342  git status
+  343  git add .index.html.swp
+  344  git reset --HEAD
+  345  git reset HEAD --
+  346  git status
+  347  git rm --cached -r
+  348  git tm --cached -r .index.html.swp
+  349  git rm --cached -r .index.html.swp
+  350  ls
+  351  git restore --staged .index.html.swp
+  352  git add .index.html.swp
+  353  git restore --staged .index.html.swp
+  354  git status
+  355  git clean -n
+  356  git clean -f
+  357  git status
+  358  ls
+  359  cd
+  360  ls
+  361  cd udacity-git-course
+  362  ls
+  363  cd new-git-project
+  364  git status
+  365  git log
+  366  cd ..
+  367  cd ..
+  368  ls
+  369  cd course-git-blog-project
+  370  atom index.html
+  371  git log
+  372  git log
+  373  ls
+  374  ls
+  375  rm beginner.ssh
+  376  chmod +x beginner.sh
+  377  ls
+  378  ./beginner
+  379  ./beginner.sh
+  380  beginner
+  381  beginner.sh
+  382  ./beginner.sh
+  383  BroCodePython
+  384  echo beginner.sh
+  385  vi beginner.sh
+  386  'ls
+  387  ls
+  388  ls
+  389  echo $PATH
+  390  ls
+  391  cal
+  392  cal
+  393  date
+  394  man pwd
+  395  pwd
+  396  less rando.py
+  397  man less
+  398  help less
+  399  man -k less
+  400  info less
+  401  help
+  402  man -k
+  403  info less
+  404  info
+  405  help --
+  406  ls
+  407  cd Music
+  408  ls
+  409  cd ..
+  410  ls ../'D evils.mp3'
+  411  cd Music
+  412  less Folder.jpg
+  413  cd ..
+  414  ls
+  415  cls
+  416  clear
+  417  user
+  418  profile
+  419  ls(1)
+  420  ls -h
+  421  rm
+  422  rm --help
+  423  mv --help
+  424  type Music
+  425  file Music
+  426  git clone https://github.com/Umuzi-org/Phemelo-Motlhabani-606-tilde-project-tutorial-how-repo-projects-work-.git
+  427  git status
+  428  git add important.md
+  429  git add important.md
+  430  git status
+  431  git add important.md
+  432  git info
+  433  git init
+  434  git status
+  435  git add important.md
+  436  git clone https://github.com/Umuzi-org/Phemelo-Motlhabani-606-tilde-project-tutorial-how-repo-projects-work-.git
+  437  git add important.md
+  438  git status
+  439  git add important.md
+  440  ls
+  441  git status
+  442  git checkout main
+  443  git init
+  444  git status
+  445  git add important.md
+  446  git ls
+  447  git -ls
+  448  git ls
+  449  git status
+  450  git status
+  451  git clone https://github.com/Umuzi-org/Phemelo-Motlhabani-606-tilde-project-tutorial-how-repo-projects-work-.git
+  452  git status
+  453  ls
+  454  cd ..
+  455  ls
+  456  mv important.md Phemelo-Motlhabani-606-tilde-project-tutorial-how-repo-projects-work-/
+  457  ls
+  458  cd Phemelo-Motlhabani-606-tilde-project-tutorial-how-repo-projects-work-/
+  459  ls
+  460  git status
+  461  git add important.md
+  462  git status
+  463  git commit -m "important.md added"
+  464  git push
+  465  git status
+  466  git add important.md
+  467  git push origin repo-tutorial
+  468  git remote -v
+  469  git checkout repo-tutorial
+  470  ls
+  471  git add important.md
+  472  git log
+  473  git merge main/repo-tutorial
+  474  git push --set-upstream origin repo-tutorial
+  475  git remote set-url origin https://github.com/Umuzi-org/Phemelo-Motlhabani-606-tilde-project-tutorial-how-repo-projects-work-
+  476  git push
+  477  ls
+  478  git checkout main important.md
+  479  git stauts
+  480  git status
+  481  git commit -m "added important.md to branch"
+  482  git push
+  483  ls
+  484  git checkout main
+  485  git push
+  486  git merge repo-tutorial
+  487  git push
+  488  git log
+  489  ls
+  490  q
+  491  :q
+  492  exit
+  493  ls
+  494  mkdir git-basic-exercises
+  495  cd git-basic-exercises
+  496  ls -a
+  497  ls
+  498  git init
+  499  ls -a
+  500  git status
+  501  touch README.md
+  502  ls -a
+  503  git status
+  504  git log
+  505  git add README.md
+  506  ls
+  507  git stauts
+  508  git status
+  509  git rm --cached README.md
+  510  git status
+  511  git add README.md
+  512  git commit -m "initial commit"
+  513  git log
+  514  q
+  515  nano README.md
+  516  cat README.md
+  517  git status
+  518  git commit - "second commit"
+  519  git commit -m "second commit"
+  520  git add .
+  521  git status
+  522  git commit -m "second commit"
+  523  nano README.md
+  524  git add README.md
+  525  git commit -m "third commit"
+  526  ls
+  527  git log
+  528  git checkout 1a57d2fe894ef2cd3301b4f20994cbfd0f20de8e
+  529  cat README.md
+  530  git checkout main
+  531  git checkout master
+  532  cat cat README.md
+  533  cat README.md
+  534  git branch
+  535  git branch milkshake-flavours
+  536  git branch
+  537  git checkout milkshake-flavours
+  538  git branch
+  539  nano milkshake.md
+  540  git status
+  541  git add milkshake.md
+  542  git commit -m "added initial flavours"
+  543  git log
+  544  git checkout master
+  545  ls
+  546  git checkout history
+  547  git branch history
+  548  git checkout history
+  549  git log
+  550  git branch
+  551  history > history.txt
